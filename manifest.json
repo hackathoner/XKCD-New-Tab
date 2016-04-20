@@ -4,7 +4,7 @@
   "manifest_version": 2,
 
   "name": "XKCD New Tab",
-  "description": "Have a random XKCD Coming everytime you open a New Tab!",
+  "description": "Have a random XKCD Comic everytime you open a New Tab!",
   "version": "1.0",
   "permissions": [
     "tabs",
